@@ -1,2 +1,2 @@
 # DiscoEterno
-Multitrack
+Have fun project
